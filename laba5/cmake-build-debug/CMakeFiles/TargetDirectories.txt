@@ -1,0 +1,3 @@
+/Users/sasha/CLionProjects/3-semestr/laba5/cmake-build-debug/CMakeFiles/laba5.dir
+/Users/sasha/CLionProjects/3-semestr/laba5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sasha/CLionProjects/3-semestr/laba5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
